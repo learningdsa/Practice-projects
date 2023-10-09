@@ -1,0 +1,641 @@
+District                       ,State,Area_km2,Population
+Adilabad,Andhra Pradesh,16105,2741239
+Agra,Uttar Pradesh,4041,4418797
+Ahmadabad,Gujarat,8107,7214225
+Ahmadnagar,Maharashtra,17048,4543159
+Aizawl,Mizoram,3576,400309
+Ajmer,Rajasthan,8481,2583052
+Akola,Maharashtra,5676,1813906
+Alappuzha,Kerala,1415,2127789
+Aligarh,Uttar Pradesh,3650,3673889
+Alirajpur,Madhya Pradesh,3182,728999
+Allahabad,Uttar Pradesh,5482,5954391
+Almora,Uttarakhand,3144,622506
+Alwar,Rajasthan,8380,3674179
+Ambala,Haryana,,1128350
+Ambedkar Nagar,Uttar Pradesh,#VALUE!,2397888
+Amravati,Maharashtra,#VALUE!,2888445
+Amreli,Gujarat,#VALUE!,1514190
+Amritsar,Punjab,#VALUE!,2490656
+Anand,Gujarat,#VALUE!,2092745
+Anantapur,Andhra Pradesh,#VALUE!,4081148
+Anantnag,Jammu and Kashmir,#VALUE!,1078692
+Anjaw,Arunachal Pradesh,#VALUE!,21167
+Anugul,Orissa,#VALUE!,1273821
+Anuppur,Madhya Pradesh,#VALUE!,749237
+Araria,Bihar,#VALUE!,2811569
+Ariyalur,Tamil Nadu,#VALUE!,754894
+Arwal,Bihar,#VALUE!,700843
+Ashoknagar,Madhya Pradesh,#VALUE!,845071
+Auraiya,Uttar Pradesh,#VALUE!,1379545
+Aurangabad,Bihar,#VALUE!,2540073
+Aurangabad,Maharashtra,#VALUE!,3701282
+Azamgarh,Uttar Pradesh,#VALUE!,4613913
+Badgam,Jammu and Kashmir,#VALUE!,753745
+Bagalkot,Karnataka,#VALUE!,1889752
+Bageshwar,Uttarakhand,#VALUE!,259898
+Baghpat,Uttar Pradesh,#VALUE!,1303048
+Bahraich,Uttar Pradesh,#VALUE!,3487731
+Baksa,Assam,#VALUE!,950075
+Balaghat,Madhya Pradesh,#VALUE!,1701698
+Balangir,Orissa,#VALUE!,1648997
+Baleshwar,Orissa,#VALUE!,2320529
+Ballia,Uttar Pradesh,#VALUE!,3239774
+Balrampur,Uttar Pradesh,#VALUE!,2148665
+Banaskantha,Gujarat,#VALUE!,3120506
+Banda,Uttar Pradesh,#VALUE!,1799410
+Bandipora,Jammu and Kashmir,#VALUE!,392232
+Bangalore,Karnataka,#VALUE!,9621551
+Bangalore Rural,Karnataka,#VALUE!,990923
+Banka,Bihar,#VALUE!,2034763
+Bankura,West Bengal,#VALUE!,3596674
+Banswara,Rajasthan,#VALUE!,1797485
+Barabanki,Uttar Pradesh,#VALUE!,3260699
+Baramula,Jammu and Kashmir,#VALUE!,1008039
+Baran,Rajasthan,#VALUE!,1222755
+Barddhaman,West Bengal,#VALUE!,7717563
+Bareilly,Uttar Pradesh,#VALUE!,4448359
+Bargarh,Orissa,#VALUE!,1481255
+Barmer,Rajasthan,#VALUE!,2603751
+Barnala,Punjab,#VALUE!,595527
+Barpeta,Assam,#VALUE!,1693622
+Barwani,Madhya Pradesh,#VALUE!,1385881
+Bastar,Chhattisgarh,#VALUE!,1413199
+Basti,Uttar Pradesh,#VALUE!,2464464
+Bathinda,Punjab,#VALUE!,1388525
+Baudh,Orissa,#VALUE!,441162
+Begusarai,Bihar,#VALUE!,2970541
+Belgaum,Karnataka,#VALUE!,4779661
+Bellary,Karnataka,#VALUE!,2452595
+Betul,Madhya Pradesh,#VALUE!,1575362
+Bhadrak,Orissa,#VALUE!,1506337
+Bhagalpur,Bihar,#VALUE!,3037766
+Bhandara,Maharashtra,#VALUE!,1200334
+Bharatpur,Rajasthan,#VALUE!,2548462
+Bharuch,Gujarat,#VALUE!,1551019
+Bhavnagar,Gujarat,#VALUE!,2880365
+Bhilwara,Rajasthan,#VALUE!,2408523
+Bhind,Madhya Pradesh,#VALUE!,1703005
+Bhiwani,Haryana,#VALUE!,1634445
+Bhojpur,Bihar,#VALUE!,2728407
+Bhopal,Madhya Pradesh,#VALUE!,2371061
+Bid,Maharashtra,#VALUE!,2585049
+Bidar,Karnataka,#VALUE!,1703300
+Bijapur,Chhattisgarh,#VALUE!,255230
+Bijapur,Karnataka,#VALUE!,2177331
+Bijnor,Uttar Pradesh,#VALUE!,3682713
+Bikaner,Rajasthan,#VALUE!,2363937
+Bilaspur,Chhattisgarh,#VALUE!,381956
+Bilaspur,Himachal Pradesh,#VALUE!,2663629
+Birbhum,West Bengal,#VALUE!,3502404
+Bishnupur,Manipur,#VALUE!,237399
+Bokaro,Jharkhand,#VALUE!,2062330
+Bongaigaon,Assam,#VALUE!,738804
+Budaun,Uttar Pradesh,#VALUE!,3681896
+Bulandshahar,Uttar Pradesh,#VALUE!,3499171
+Buldana,Maharashtra,#VALUE!,2586258
+Bundi,Rajasthan,#VALUE!,1110906
+Burhanpur,Madhya Pradesh,#VALUE!,757847
+Buxar,Bihar,#VALUE!,1706352
+Cachar,Assam,#VALUE!,1736617
+Central,#N/A,#VALUE!,582320
+Chamarajanagar,Karnataka,#VALUE!,1020791
+Chamba,Himachal Pradesh,#VALUE!,519080
+Chamoli,Uttarakhand,#VALUE!,391605
+Champawat,Uttarakhand,#VALUE!,259648
+Champhai,Mizoram,#VALUE!,125745
+Chandauli,Uttar Pradesh,#VALUE!,1952756
+Chandel,Manipur,#VALUE!,144182
+Chandigarh,Chandigarh,#VALUE!,1055450
+Chandrapur,Maharashtra,#VALUE!,2204307
+Changlang,Arunachal Pradesh,#VALUE!,148226
+Chatra,Jharkhand,#VALUE!,1042886
+Chennai,Tamil Nadu,#VALUE!,4646732
+Chhatarpur,#N/A,#VALUE!,1762375
+Chhindwara,Madhya Pradesh,#VALUE!,2090922
+Chikkaballapura,Karnataka,#VALUE!,1255104
+Chikmagalur,Karnataka,#VALUE!,1137961
+Chirang,Assam,#VALUE!,482162
+Chitradurga,Karnataka,#VALUE!,1659456
+Chitrakoot,Uttar Pradesh,#VALUE!,991730
+Chittaurgarh,Rajasthan,#VALUE!,1544338
+Chittoor,Andhra Pradesh,#VALUE!,4174064
+Churachandpur,Manipur,#VALUE!,274143
+Churu,Rajasthan,#VALUE!,2039547
+Coimbatore,Tamil Nadu,#VALUE!,3458045
+Cuddalore,Tamil Nadu,#VALUE!,2605914
+Cuttack,Orissa,#VALUE!,2624470
+Dadra & Nagar Haveli,#N/A,#VALUE!,343709
+Dahod,#N/A,#VALUE!,2127086
+Dakshin Bastar Dantewada,#N/A,#VALUE!,533638
+Dakshin Dinajpur,West Bengal,#VALUE!,1676276
+Dakshina Kannada,Karnataka,#VALUE!,2089649
+Daman,Daman and Diu,#VALUE!,191173
+Damoh,Madhya Pradesh,#VALUE!,1264219
+Darbhanga,Bihar,#VALUE!,3937385
+Darjiling,West Bengal,#VALUE!,1846823
+Darrang,Assam,#VALUE!,928500
+Datia,Madhya Pradesh,#VALUE!,786754
+Dausa,Rajasthan,#VALUE!,1634409
+Davanagere,Karnataka,#VALUE!,1945497
+Debagarh,Orissa,#VALUE!,312520
+Dehradun,Uttarakhand,#VALUE!,1696694
+Deoghar,Jharkhand,#VALUE!,1492073
+Deoria,Uttar Pradesh,#VALUE!,3100946
+Dewas,Madhya Pradesh,#VALUE!,1563715
+Dhalai,Tripura,#VALUE!,378230
+Dhamtari,Chhattisgarh,#VALUE!,799781
+Dhanbad,Jharkhand,#VALUE!,2684487
+Dhar,Madhya Pradesh,#VALUE!,2185793
+Dharmapuri,Tamil Nadu,#VALUE!,1506843
+Dharwad,Karnataka,#VALUE!,1847023
+Dhaulpur,Rajasthan,#VALUE!,1206516
+Dhemaji,Assam,#VALUE!,686133
+Dhenkanal,Orissa,#VALUE!,1192811
+Dhubri,Assam,#VALUE!,1949258
+Dhule,Maharashtra,#VALUE!,2050862
+Dibang Valley,Arunachal Pradesh,#VALUE!,8004
+Dibrugarh,Assam,#VALUE!,1326335
+Dima Hasao,Assam,#VALUE!,214102
+Dimapur,Nagaland,#VALUE!,378811
+Dindigul,Tamil Nadu,#VALUE!,2159775
+Dindori,Madhya Pradesh,#VALUE!,704524
+Diu,Daman and Diu,#VALUE!,52074
+Doda,Jammu and Kashmir,#VALUE!,409936
+Dumka,Jharkhand,#VALUE!,1321442
+Dungarpur,Rajasthan,#VALUE!,1388552
+Durg,Chhattisgarh,#VALUE!,3343872
+East,#N/A,#VALUE!,1709346
+East District,#N/A,#VALUE!,283583
+East Garo Hills,Meghalaya,#VALUE!,317917
+East Godavari,Andhra Pradesh,#VALUE!,5154296
+East Kameng,Arunachal Pradesh,#VALUE!,78690
+East Khasi Hills,Meghalaya,#VALUE!,825922
+East Siang,Arunachal Pradesh,#VALUE!,99214
+Ernakulam,Kerala,#VALUE!,3282388
+Erode,Tamil Nadu,#VALUE!,2251744
+Etah,Uttar Pradesh,#VALUE!,1774480
+Etawah,Uttar Pradesh,#VALUE!,1581810
+Faizabad,Uttar Pradesh,#VALUE!,2470996
+Faridabad,Haryana,#VALUE!,1809733
+Faridkot,Punjab,#VALUE!,617508
+Farrukhabad,Uttar Pradesh,#VALUE!,1885204
+Fatehabad,Haryana,#VALUE!,942011
+Fatehgarh Sahib,Punjab,#VALUE!,600163
+Fatehpur,Uttar Pradesh,#VALUE!,2632733
+Firozabad,Uttar Pradesh,#VALUE!,2498156
+Firozpur,Punjab,#VALUE!,2029074
+Gadag,Karnataka,#VALUE!,1064570
+Gadchiroli,Maharashtra,#VALUE!,1072942
+Gajapati,Orissa,#VALUE!,577817
+Ganderbal,Jammu and Kashmir,#VALUE!,297446
+Gandhinagar,Gujarat,#VALUE!,1391753
+Ganganagar,Rajasthan,#VALUE!,1969168
+Ganjam,Orissa,#VALUE!,3529031
+Garhwa,Jharkhand,#VALUE!,1322784
+Garhwal,#N/A,#VALUE!,687271
+Gautam Buddha Nagar,Uttar Pradesh,#VALUE!,1648115
+Gaya,Bihar,#VALUE!,4391418
+Ghaziabad,Uttar Pradesh,#VALUE!,4681645
+Ghazipur,Uttar Pradesh,#VALUE!,3620268
+Giridih,Jharkhand,#VALUE!,2445474
+Goalpara,Assam,#VALUE!,1008183
+Godda,Jharkhand,#VALUE!,1313551
+Golaghat,Assam,#VALUE!,1066888
+Gonda,Uttar Pradesh,#VALUE!,3433919
+Gondiya,Maharashtra,#VALUE!,1322507
+Gopalganj,Bihar,#VALUE!,2562012
+Gorakhpur,Uttar Pradesh,#VALUE!,4440895
+Gulbarga,Karnataka,#VALUE!,2566326
+Gumla,Jharkhand,#VALUE!,1025213
+Guna,Madhya Pradesh,#VALUE!,1241519
+Guntur,Andhra Pradesh,#VALUE!,4887813
+Gurdaspur,Punjab,#VALUE!,2298323
+Gurgaon,Haryana,#VALUE!,1514432
+Gwalior,Madhya Pradesh,#VALUE!,2032036
+Hailakandi,Assam,#VALUE!,659296
+Hamirpur,Himachal Pradesh,#VALUE!,454768
+Hamirpur,Uttar Pradesh,#VALUE!,1104285
+Hanumangarh,Rajasthan,#VALUE!,1774692
+Haora,West Bengal,#VALUE!,4850029
+Harda,Madhya Pradesh,#VALUE!,570465
+Hardoi,Uttar Pradesh,#VALUE!,4092845
+Hardwar,#N/A,#VALUE!,1890422
+Hassan,Karnataka,#VALUE!,1776421
+Haveri,Karnataka,#VALUE!,1597668
+Hazaribagh,Jharkhand,#VALUE!,1734495
+Hingoli,Maharashtra,#VALUE!,1177345
+Hisar,Haryana,#VALUE!,1743931
+Hoshangabad,Madhya Pradesh,#VALUE!,1241350
+Hoshiarpur,Punjab,#VALUE!,1586625
+Hugli,West Bengal,#VALUE!,5519145
+Hyderabad,Andhra Pradesh,#VALUE!,3943323
+Idukki,Kerala,#VALUE!,1108974
+Imphal East,Manipur,#VALUE!,456113
+Imphal West,Manipur,#VALUE!,517992
+Indore,Madhya Pradesh,#VALUE!,3276697
+Jabalpur,Madhya Pradesh,#VALUE!,2463289
+Jagatsinghapur,Orissa,#VALUE!,1136971
+Jaintia Hills,Meghalaya,#VALUE!,395124
+Jaipur,Rajasthan,#VALUE!,6626178
+Jaisalmer,Rajasthan,#VALUE!,669919
+Jajapur,Orissa,#VALUE!,1827192
+Jalandhar,Punjab,#VALUE!,2193590
+Jalaun,Uttar Pradesh,#VALUE!,1689974
+Jalgaon,Maharashtra,#VALUE!,4229917
+Jalna,Maharashtra,#VALUE!,1959046
+Jalor,Rajasthan,#VALUE!,1828730
+Jalpaiguri,West Bengal,#VALUE!,3872846
+Jammu,Jammu and Kashmir,#VALUE!,1529958
+Jamnagar,Gujarat,#VALUE!,2160119
+Jamtara,Jharkhand,#VALUE!,791042
+Jamui,Bihar,#VALUE!,1760405
+Janjgir - Champa,#N/A,#VALUE!,1619707
+Jashpur,Chhattisgarh,#VALUE!,851669
+Jaunpur,Uttar Pradesh,#VALUE!,4494204
+Jehanabad,Bihar,#VALUE!,1125313
+Jhabua,Madhya Pradesh,#VALUE!,1025048
+Jhajjar,Haryana,#VALUE!,958405
+Jhalawar,Rajasthan,#VALUE!,1411129
+Jhansi,Uttar Pradesh,#VALUE!,1998603
+Jharsuguda,Orissa,#VALUE!,579505
+Jhunjhunun,Rajasthan,#VALUE!,2137045
+Jind,Haryana,#VALUE!,1334152
+Jodhpur,Rajasthan,#VALUE!,3687165
+Jorhat,Assam,#VALUE!,1092256
+Junagadh,Gujarat,#VALUE!,2743082
+Jyotiba Phule Nagar,Uttar Pradesh,#VALUE!,1840221
+Kabirdham,Chhattisgarh,#VALUE!,822526
+Kachchh,Gujarat,#VALUE!,2092371
+Kaimur,Bihar,#VALUE!,1626384
+Kaithal,Haryana,#VALUE!,1074304
+Kalahandi,Orissa,#VALUE!,1576869
+Kamrup,Assam,#VALUE!,1517542
+Kamrup Metropolitan,Assam,#VALUE!,1253938
+Kancheepuram,Tamil Nadu,#VALUE!,3998252
+Kandhamal,Orissa,#VALUE!,733110
+Kangra,Himachal Pradesh,#VALUE!,1510075
+Kanker (Uttar Bastar Kanker),#N/A,#VALUE!,748941
+Kannauj,Uttar Pradesh,#VALUE!,1656616
+Kanniyakumari,Tamil Nadu,#VALUE!,1870374
+Kannur,Kerala,#VALUE!,2523003
+Kanpur Dehat,#N/A,#VALUE!,1796184
+Kanpur Nagar,Uttar Pradesh,#VALUE!,4581268
+Kanshiram Nagar,Uttar Pradesh,#VALUE!,1436719
+Kapurthala,Punjab,#VALUE!,815168
+Karaikal,Puducherry,#VALUE!,200222
+Karauli,Rajasthan,#VALUE!,1458248
+Karbi Anglong,Assam,#VALUE!,956313
+Kargil,Jammu and Kashmir,#VALUE!,140802
+Karimganj,Assam,#VALUE!,1228686
+Karimnagar,Andhra Pradesh,#VALUE!,3776269
+Karnal,Haryana,#VALUE!,1505324
+Karur,Tamil Nadu,#VALUE!,1064493
+Kasaragod,Kerala,#VALUE!,1307375
+Kathua,Jammu and Kashmir,#VALUE!,616435
+Katihar,Bihar,#VALUE!,3071029
+Katni,Madhya Pradesh,#VALUE!,1292042
+Kaushambi,Uttar Pradesh,#VALUE!,1599596
+Kendrapara,Orissa,#VALUE!,1440361
+Kendujhar,Orissa,#VALUE!,1801733
+Khagaria,Bihar,#VALUE!,1666886
+Khammam,Andhra Pradesh,#VALUE!,2797370
+Khandwa,#N/A,#VALUE!,1310061
+Khargone,#N/A,#VALUE!,1873046
+Kheda,Gujarat,#VALUE!,2299885
+Kheri,Uttar Pradesh,#VALUE!,4021243
+Khordha,Orissa,#VALUE!,2251673
+Khunti,Jharkhand,#VALUE!,531885
+Kinnaur,Himachal Pradesh,#VALUE!,84121
+Kiphire,Nagaland,#VALUE!,74004
+Kishanganj,Bihar,#VALUE!,1690400
+Kishtwar,Jammu and Kashmir,#VALUE!,230696
+Koch Bihar,West Bengal,#VALUE!,2819086
+Kodagu,Karnataka,#VALUE!,554519
+Kodarma,Jharkhand,#VALUE!,716259
+Kohima,Nagaland,#VALUE!,267988
+Kokrajhar,Assam,#VALUE!,887142
+Kolar,Karnataka,#VALUE!,1536401
+Kolasib,Mizoram,#VALUE!,83955
+Kolhapur,Maharashtra,#VALUE!,3876001
+Kolkata,West Bengal,#VALUE!,4496694
+Kollam,Kerala,#VALUE!,2635375
+Koppal,Karnataka,#VALUE!,1389920
+Koraput,Orissa,#VALUE!,1379647
+Korba,Chhattisgarh,#VALUE!,1206640
+Koriya,#N/A,#VALUE!,658917
+Kota,Rajasthan,#VALUE!,1951014
+Kottayam,Kerala,#VALUE!,1974551
+Kozhikode,Kerala,#VALUE!,3086293
+Krishna,Andhra Pradesh,#VALUE!,4517398
+Krishnagiri,Tamil Nadu,#VALUE!,1879809
+Kulgam,Jammu and Kashmir,#VALUE!,424483
+Kullu,Himachal Pradesh,#VALUE!,437903
+Kupwara,Jammu and Kashmir,#VALUE!,870354
+Kurnool,Andhra Pradesh,#VALUE!,4053463
+Kurukshetra,Haryana,#VALUE!,964655
+Kurung Kumey,Arunachal Pradesh,#VALUE!,92076
+Kushinagar,Uttar Pradesh,#VALUE!,3564544
+Lahul & Spiti,#N/A,#VALUE!,31564
+Lakhimpur,Assam,#VALUE!,1042137
+Lakhisarai,Bihar,#VALUE!,1000912
+Lakshadweep,Lakshadweep,#VALUE!,64473
+Lalitpur,Uttar Pradesh,#VALUE!,1221592
+Latehar,Jharkhand,#VALUE!,726978
+Latur,Maharashtra,#VALUE!,2454196
+Lawngtlai,Mizoram,#VALUE!,117894
+Leh,Jammu and Kashmir,#VALUE!,133487
+Lohardaga,Jharkhand,#VALUE!,461790
+Lohit,Arunachal Pradesh,#VALUE!,145726
+Longleng,Nagaland,#VALUE!,50484
+Lower Dibang Valley,Arunachal Pradesh,#VALUE!,54080
+Lower Subansiri,Arunachal Pradesh,#VALUE!,83030
+Lucknow,Uttar Pradesh,#VALUE!,4589838
+Ludhiana,Punjab,#VALUE!,3498739
+Lunglei,Mizoram,#VALUE!,161428
+Madhepura,Bihar,#VALUE!,2001762
+Madhubani,Bihar,#VALUE!,4487379
+Madurai,Tamil Nadu,#VALUE!,3038252
+Mahamaya Nagar,Uttar Pradesh,#VALUE!,1564708
+Maharajganj,Uttar Pradesh,#VALUE!,2684703
+Mahasamund,Chhattisgarh,#VALUE!,1032754
+Mahbubnagar,Andhra Pradesh,#VALUE!,4053028
+Mahe,Puducherry,#VALUE!,41816
+Mahendragarh,Haryana,#VALUE!,922088
+Mahesana,Gujarat,#VALUE!,2035064
+Mahoba,Uttar Pradesh,#VALUE!,875958
+Mainpuri,Uttar Pradesh,#VALUE!,1868529
+Malappuram,Kerala,#VALUE!,4112920
+Maldah,West Bengal,#VALUE!,3988845
+Malkangiri,Orissa,#VALUE!,613192
+Mamit,Mizoram,#VALUE!,86364
+Mandi,Himachal Pradesh,#VALUE!,999777
+Mandla,Madhya Pradesh,#VALUE!,1054905
+Mandsaur,Madhya Pradesh,#VALUE!,1340411
+Mandya,Karnataka,#VALUE!,1805769
+Mansa,Punjab,#VALUE!,769751
+Mathura,Uttar Pradesh,#VALUE!,2547184
+Mau,Uttar Pradesh,#VALUE!,2205968
+Mayurbhanj,Orissa,#VALUE!,2519738
+Medak,Andhra Pradesh,#VALUE!,3033288
+Meerut,Uttar Pradesh,#VALUE!,3443689
+Mewat,Haryana,#VALUE!,1089263
+Mirzapur,Uttar Pradesh,#VALUE!,2496970
+Moga,Punjab,#VALUE!,995746
+Mokokchung,Nagaland,#VALUE!,194622
+Mon,Nagaland,#VALUE!,250260
+Moradabad,Uttar Pradesh,#VALUE!,4772006
+Morena,Madhya Pradesh,#VALUE!,1965970
+Morigaon,Assam,#VALUE!,957423
+Muktsar,Punjab,#VALUE!,901896
+Mumbai,#N/A,#VALUE!,3085411
+Mumbai Suburban,Maharashtra,#VALUE!,9356962
+Munger,Bihar,#VALUE!,1367765
+Murshidabad,West Bengal,#VALUE!,7103807
+Muzaffarnagar,Uttar Pradesh,#VALUE!,4143512
+Muzaffarpur,Bihar,#VALUE!,4801062
+Mysore,Karnataka,#VALUE!,3001127
+Nabarangapur,Orissa,#VALUE!,1220946
+Nadia,West Bengal,#VALUE!,5167600
+Nagaon,Assam,#VALUE!,2823768
+Nagapattinam,Tamil Nadu,#VALUE!,1616450
+Nagaur,Rajasthan,#VALUE!,3307743
+Nagpur,Maharashtra,#VALUE!,4653570
+Nainital,Uttarakhand,#VALUE!,954605
+Nalanda,Bihar,#VALUE!,2877653
+Nalbari,Assam,#VALUE!,771639
+Nalgonda,Andhra Pradesh,#VALUE!,3488809
+Namakkal,Tamil Nadu,#VALUE!,1726601
+Nanded,Maharashtra,#VALUE!,3361292
+Nandurbar,Maharashtra,#VALUE!,1648295
+Narayanpur,Chhattisgarh,#VALUE!,139820
+Narmada,Gujarat,#VALUE!,590297
+Narsimhapur,Madhya Pradesh,#VALUE!,1091854
+Nashik,Maharashtra,#VALUE!,6107187
+Navsari,Gujarat,#VALUE!,1329672
+Nawada,Bihar,#VALUE!,2219146
+Nayagarh,Orissa,#VALUE!,962789
+Neemuch,Madhya Pradesh,#VALUE!,826067
+New Delhi,Delhi,#VALUE!,142004
+Nicobars,Andaman And Nicobar Islands,#VALUE!,36842
+Nizamabad,Andhra Pradesh,#VALUE!,2551335
+North,#N/A,#VALUE!,887978
+North & Middle Andaman,#N/A,#VALUE!,105597
+North District,#N/A,#VALUE!,43709
+North East,#N/A,#VALUE!,2241624
+North Goa,Goa,#VALUE!,818008
+North Tripura,Tripura,#VALUE!,693947
+North Twenty Four Parganas,West Bengal,#VALUE!,10009781
+North West,#N/A,#VALUE!,3656539
+Nuapada,Orissa,#VALUE!,610382
+Osmanabad,Maharashtra,#VALUE!,1657576
+Pakur,Jharkhand,#VALUE!,900422
+Palakkad,Kerala,#VALUE!,2809934
+Palamu,Jharkhand,#VALUE!,1939869
+Pali,Rajasthan,#VALUE!,2037573
+Palwal,Haryana,#VALUE!,1042708
+Panchkula,Haryana,#VALUE!,561293
+Panchmahal,Gujarat,#VALUE!,2390776
+Panipat,Haryana,#VALUE!,1205437
+Panna,Madhya Pradesh,#VALUE!,1016520
+Papum Pare,#N/A,#VALUE!,176573
+Parbhani,Maharashtra,#VALUE!,1836086
+Paschim Medinipur,West Bengal,#VALUE!,5913457
+Pashchim Champaran,Bihar,#VALUE!,3935042
+Pashchimi Singhbhum,Jharkhand,#VALUE!,1502338
+Patan,Gujarat,#VALUE!,1343734
+Pathanamthitta,Kerala,#VALUE!,1197412
+Patiala,Punjab,#VALUE!,1895686
+Patna,Bihar,#VALUE!,5838465
+Perambalur,Tamil Nadu,#VALUE!,565223
+Peren,Nagaland,#VALUE!,95219
+Phek,Nagaland,#VALUE!,163418
+Pilibhit,Uttar Pradesh,#VALUE!,2031007
+Pithoragarh,Uttarakhand,#VALUE!,483439
+Porbandar,Gujarat,#VALUE!,585449
+Prakasam,Andhra Pradesh,#VALUE!,3397448
+Pratapgarh,Rajasthan,#VALUE!,867848
+Pratapgarh,Uttar Pradesh,#VALUE!,3209141
+Puducherry,Puducherry,#VALUE!,950289
+Pudukkottai,Tamil Nadu,#VALUE!,1618345
+Pulwama,Jammu and Kashmir,#VALUE!,560440
+Punch,Jammu and Kashmir,#VALUE!,476835
+Pune,Maharashtra,#VALUE!,9429408
+Purba Champaran,#N/A,#VALUE!,5099371
+Purba Medinipur,West Bengal,#VALUE!,5095875
+Purbi Singhbhum,Jharkhand,#VALUE!,2293919
+Puri,Orissa,#VALUE!,1698730
+Purnia,Bihar,#VALUE!,3264619
+Puruliya,West Bengal,#VALUE!,2930115
+Rae Bareli,Uttar Pradesh,#VALUE!,3405559
+Raichur,Karnataka,#VALUE!,1928812
+Raigarh,Chhattisgarh,#VALUE!,1493984
+Raigarh,Maharashtra,#VALUE!,2634200
+Raipur,Chhattisgarh,#VALUE!,4063872
+Raisen,Madhya Pradesh,#VALUE!,1331597
+Rajgarh,Madhya Pradesh,#VALUE!,1545814
+Rajkot,Gujarat,#VALUE!,3804558
+Rajnandgaon,Chhattisgarh,#VALUE!,1537133
+Rajouri,Jammu and Kashmir,#VALUE!,642415
+Rajsamand,Rajasthan,#VALUE!,1156597
+Ramanagara,Karnataka,#VALUE!,1082636
+Ramanathapuram,Tamil Nadu,#VALUE!,1353445
+Ramban,Jammu and Kashmir,#VALUE!,283713
+Ramgarh,Jharkhand,#VALUE!,949443
+Rampur,Uttar Pradesh,#VALUE!,2335819
+Ranchi,Jharkhand,#VALUE!,2914253
+Rangareddy,Andhra Pradesh,#VALUE!,5296741
+Ratlam,Madhya Pradesh,#VALUE!,1455069
+Ratnagiri,Maharashtra,#VALUE!,1615069
+Rayagada,Orissa,#VALUE!,967911
+Reasi,Jammu and Kashmir,#VALUE!,314667
+Rewa,Madhya Pradesh,#VALUE!,2365106
+Rewari,Haryana,#VALUE!,900332
+Ribhoi,#N/A,#VALUE!,258840
+Rohtak,Haryana,#VALUE!,1061204
+Rohtas,Bihar,#VALUE!,2959918
+Rudraprayag,Uttarakhand,#VALUE!,242285
+Rupnagar,Punjab,#VALUE!,684627
+Sabarkantha,Gujarat,#VALUE!,2428589
+Sagar,Madhya Pradesh,#VALUE!,2378458
+Saharanpur,Uttar Pradesh,#VALUE!,3466382
+Saharsa,Bihar,#VALUE!,1900661
+Sahibganj,Jharkhand,#VALUE!,1150567
+Sahibzada Ajit Singh Nagar,#N/A,#VALUE!,994628
+Saiha,Mizoram,#VALUE!,56574
+Salem,Tamil Nadu,#VALUE!,3482056
+Samastipur,Bihar,#VALUE!,4261566
+Samba,Jammu and Kashmir,#VALUE!,318898
+Sambalpur,Orissa,#VALUE!,1041099
+Sangli,Maharashtra,#VALUE!,2822143
+Sangrur,Punjab,#VALUE!,1655169
+Sant Kabir Nagar,Uttar Pradesh,#VALUE!,1715183
+Sant Ravidas Nagar,Uttar Pradesh,#VALUE!,1578213
+Saraikela-Kharsawan,#N/A,#VALUE!,1065056
+Saran,Bihar,#VALUE!,3951862
+Satara,Maharashtra,#VALUE!,3003741
+Satna,Madhya Pradesh,#VALUE!,2228935
+Sawai Madhopur,Rajasthan,#VALUE!,1335551
+Sehore,Madhya Pradesh,#VALUE!,1311332
+Senapati,Manipur,#VALUE!,479148
+Seoni,Madhya Pradesh,#VALUE!,1379131
+Serchhip,Mizoram,#VALUE!,64937
+Shahdol,Madhya Pradesh,#VALUE!,1066063
+Shahid Bhagat Singh Nagar,Punjab,#VALUE!,612310
+Shahjahanpur,Uttar Pradesh,#VALUE!,3006538
+Shajapur,Madhya Pradesh,#VALUE!,1512681
+Sheikhpura,Bihar,#VALUE!,636342
+Sheohar,Bihar,#VALUE!,656246
+Sheopur,Madhya Pradesh,#VALUE!,687861
+Shimla,Himachal Pradesh,#VALUE!,814010
+Shimoga,Karnataka,#VALUE!,1752753
+Shivpuri,Madhya Pradesh,#VALUE!,1726050
+Shrawasti,Uttar Pradesh,#VALUE!,1117361
+Shupiyan,Jammu and Kashmir,#VALUE!,266215
+Siddharthnagar,#N/A,#VALUE!,2559297
+Sidhi,Madhya Pradesh,#VALUE!,1127033
+Sikar,Rajasthan,#VALUE!,2677333
+Simdega,Jharkhand,#VALUE!,599578
+Sindhudurg,Maharashtra,#VALUE!,849651
+Singrauli,Madhya Pradesh,#VALUE!,1178273
+Sirmaur,Himachal Pradesh,#VALUE!,529855
+Sirohi,Rajasthan,#VALUE!,1036346
+Sirsa,Haryana,#VALUE!,1295189
+Sitamarhi,Bihar,#VALUE!,3423574
+Sitapur,Uttar Pradesh,#VALUE!,4483992
+Sivaganga,Tamil Nadu,#VALUE!,1339101
+Sivasagar,Assam,#VALUE!,1151050
+Siwan,Bihar,#VALUE!,3330464
+Solan,Himachal Pradesh,#VALUE!,580320
+Solapur,Maharashtra,#VALUE!,4317756
+Sonbhadra,Uttar Pradesh,#VALUE!,1862559
+Sonipat,Haryana,#VALUE!,1450001
+Sonitpur,Assam,#VALUE!,1924110
+South,#N/A,#VALUE!,2731929
+South Andaman,Andaman And Nicobar Islands,#VALUE!,238142
+South District,#N/A,#VALUE!,146850
+South Garo Hills,Meghalaya,#VALUE!,142334
+South Goa,Goa,#VALUE!,640537
+South Tripura,Tripura,#VALUE!,876001
+South Twenty Four Parganas,West Bengal,#VALUE!,8161961
+South West,#N/A,#VALUE!,2292958
+Sri Potti Sriramulu Nellore,Andhra Pradesh,#VALUE!,2963557
+Srikakulam,Andhra Pradesh,#VALUE!,2703114
+Srinagar,Jammu and Kashmir,#VALUE!,1236829
+Subarnapur,Orissa,#VALUE!,610183
+Sultanpur,Uttar Pradesh,#VALUE!,3797117
+Sundargarh,Orissa,#VALUE!,2093437
+Supaul,Bihar,#VALUE!,2229076
+Surat,Gujarat,#VALUE!,6081322
+Surendranagar,Gujarat,#VALUE!,1756268
+Surguja,Chhattisgarh,#VALUE!,2359886
+Tamenglong,Manipur,#VALUE!,140651
+Tapi,Gujarat,#VALUE!,807022
+Tarn Taran,Punjab,#VALUE!,1119627
+Tawang,Arunachal Pradesh,#VALUE!,49977
+Tehri Garhwal,Uttarakhand,#VALUE!,618931
+Thane,Maharashtra,#VALUE!,11060148
+Thanjavur,Tamil Nadu,#VALUE!,2405890
+The Dangs,Gujarat,#VALUE!,228291
+The Nilgiris,Tamil Nadu,#VALUE!,735394
+Theni,Tamil Nadu,#VALUE!,1245899
+Thiruvallur,Tamil Nadu,#VALUE!,3728104
+Thiruvananthapuram,Kerala,#VALUE!,3301427
+Thiruvarur,Tamil Nadu,#VALUE!,1264277
+Thoothukkudi,Tamil Nadu,#VALUE!,1750176
+Thoubal,Manipur,#VALUE!,422168
+Thrissur,Kerala,#VALUE!,3121200
+Tikamgarh,Madhya Pradesh,#VALUE!,1445166
+Tinsukia,Assam,#VALUE!,1327929
+Tirap,Arunachal Pradesh,#VALUE!,111975
+Tiruchirappalli,Tamil Nadu,#VALUE!,2722290
+Tirunelveli,Tamil Nadu,#VALUE!,3077233
+Tiruppur,Tamil Nadu,#VALUE!,2479052
+Tiruvannamalai,Tamil Nadu,#VALUE!,2464875
+Tonk,Rajasthan,#VALUE!,1421326
+Tuensang,Nagaland,#VALUE!,196596
+Tumkur,Karnataka,#VALUE!,2678980
+Udaipur,Rajasthan,#VALUE!,3068420
+Udalguri,Assam,#VALUE!,831668
+Udham Singh Nagar,Uttarakhand,#VALUE!,1648902
+Udhampur,Jammu and Kashmir,#VALUE!,554985
+Udupi,Karnataka,#VALUE!,1177361
+Ujjain,Madhya Pradesh,#VALUE!,1986864
+Ukhrul,Manipur,#VALUE!,183998
+Umaria,Madhya Pradesh,#VALUE!,644758
+Una,Himachal Pradesh,#VALUE!,521173
+Unnao,Uttar Pradesh,#VALUE!,3108367
+Upper Siang,Arunachal Pradesh,#VALUE!,35320
+Upper Subansiri,Arunachal Pradesh,#VALUE!,83448
+Uttar Dinajpur,West Bengal,#VALUE!,3007134
+Uttara Kannada,Karnataka,#VALUE!,1437169
+Uttarkashi,Uttarakhand,#VALUE!,330086
+Vadodara,Gujarat,#VALUE!,4165626
+Vaishali,Bihar,#VALUE!,3495021
+Valsad,Gujarat,#VALUE!,1705678
+Varanasi,Uttar Pradesh,#VALUE!,3676841
+Vellore,Tamil Nadu,#VALUE!,3936331
+Vidisha,Madhya Pradesh,#VALUE!,1458875
+Viluppuram,Tamil Nadu,#VALUE!,3458873
+Virudhunagar,Tamil Nadu,#VALUE!,1942288
+Visakhapatnam,Andhra Pradesh,#VALUE!,4290589
+Vizianagaram,Andhra Pradesh,#VALUE!,2344474
+Warangal,Andhra Pradesh,#VALUE!,3512576
+Wardha,Maharashtra,#VALUE!,1300774
+Washim,Maharashtra,#VALUE!,1197160
+Wayanad,Kerala,#VALUE!,817420
+West,#N/A,#VALUE!,2543243
+West District,#N/A,#VALUE!,136435
+West Garo Hills,Meghalaya,#VALUE!,643291
+West Godavari,Andhra Pradesh,#VALUE!,3936966
+West Kameng,Arunachal Pradesh,#VALUE!,83947
+West Khasi Hills,Meghalaya,#VALUE!,383461
+West Siang,Arunachal Pradesh,#VALUE!,112274
+West Tripura,Tripura,#VALUE!,1725739
+Wokha,Nagaland,#VALUE!,166343
+Yadgir,Karnataka,#VALUE!,1174271
+Yamunanagar,Haryana,#VALUE!,1214205
+Yanam,Puducherry,#VALUE!,55626
+Yavatmal,Maharashtra,#VALUE!,2772348
+YSR,Andhra Pradesh,#VALUE!,2882469
+Zunheboto,Nagaland,#VALUE!,140757
